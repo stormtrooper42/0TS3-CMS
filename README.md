@@ -1,5 +1,6 @@
 ## Warning !
 This script is no longer maintened, i  work on a new version of this script.
+New Version : https://github.com/0network/PulseTS-Core
 
 # 0TS3-CMS
 The New Free Teamspeak CMS
