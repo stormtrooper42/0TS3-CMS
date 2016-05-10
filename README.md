@@ -2,6 +2,7 @@
 This script is no longer maintened, i  work on a new version of this script.
 - New Version (Work in progress) : https://github.com/0network/PulseTS-Core
 - New Front-End : https://github.com/0network/PulseTS-Front
+- Place requests & upvote: https://trello.com/b/zMIRgY4N
 
 You can purpose the features you want to see on the new version of this CMS here :
 
